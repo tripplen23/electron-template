@@ -1,0 +1,17 @@
+{
+  "name": "3d-building",
+  "version": "1.0.0",
+  "description": "This is a demo to deploy a 3D building inside an electron desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Binh Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^23.1.1",
+    "electron-reload": "^2.0.0-alpha.1",
+    "three": "^0.150.0"
+  }
+}
