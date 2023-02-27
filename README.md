@@ -8,6 +8,7 @@ This is a template for fast building in elecron
 4. run the following command: 
 
 ```
+npm install
 npm start
 ```
 5. Write your own code 
